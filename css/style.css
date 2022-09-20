@@ -76,7 +76,7 @@ body {
    font-size: 20px;
    text-align: left;
    margin: 0px 0px 15px 0px;
-   background: url(img/check_icon.png) left no-repeat;
+   background: url(check_icon.png) left no-repeat;
    padding: 0px 0px 0px 35px;
 }
 .main-bottom__list li:nth-child(1) {
@@ -118,7 +118,7 @@ body {
    
 }
 .main-bottom--button__link span {
-   background: url(img/arrow right.svg) right no-repeat;
+   background: url(arrow right.svg) right no-repeat;
    padding: 0px 32px 0px 0px;
 }
 
