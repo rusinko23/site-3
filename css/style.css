@@ -118,7 +118,7 @@ body {
    
 }
 .main-bottom--button__link span {
-   background-image: url(img/arrow right.svg) right no-repeat;
+   background: url(../img/arrow\ right.svg) right no-repeat;
    padding: 0px 32px 0px 0px;
 }
 
